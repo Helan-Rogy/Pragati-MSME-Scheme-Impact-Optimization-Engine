@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 ChaosZen: MSME Scheme Impact & Optimization Engine
+# 🚀 Pragati: MSME Scheme Impact & Optimization Engine
 
 **An AI-powered, budget-constrained policy optimization platform designed to maximize the socio-economic impact of government schemes on Micro, Small, and Medium Enterprises (MSMEs).**
 
