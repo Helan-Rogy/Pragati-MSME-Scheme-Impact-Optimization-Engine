@@ -17,7 +17,7 @@
 
 Governments allocate hundreds of crores to MSME schemes, but distributing these funds efficiently is a monumental challenge. Allocation based on simple eligibility often results in suboptimal ROI for the economy.
 
-**ChaosZen** solves this by combining **Machine Learning (Growth Prediction)**, **Rules-Based Simulation (Impact Modeling)**, and **Algorithmic Optimization (Greedy Knapsack)** to mathematically prove where every rupee should go to maximize either **Revenue Growth** or **Job Creation**.
+**Pragati** solves this by combining **Machine Learning (Growth Prediction)**, **Rules-Based Simulation (Impact Modeling)**, and **Algorithmic Optimization (Greedy Knapsack)** to mathematically prove where every rupee should go to maximize either **Revenue Growth** or **Job Creation**.
 
 This project provides a complete end-to-end pipeline, culminating in a **real-time React dashboard** for policy makers to simulate budget distributions dynamically.
 
